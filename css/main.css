@@ -1,0 +1,17 @@
+p{
+    color: green;
+}
+.matn{
+    color: brown;
+}
+.shrift{
+    font-size: 25px;
+}
+#fon {
+    background-color: black;
+    text-align: right;
+}
+#fan{
+    background-color: black;
+    color: white;
+}
